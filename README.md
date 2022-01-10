@@ -5,6 +5,6 @@
 > O objetivo é construir uma visualização inteligente e intuitiva para os pequenos produtores que desejam acompanhar os preços e as cidades produtoras.
 
 # Coleta dos Dados
-> Os dados foram coletados a partir do link a seguir: http://www.seagri.ba.gov.br/cotacao?produto=&praca=&tipo=&data_inicio=01%2F01%2F2021&data_final=02%2F01%2F2022
+> Os dados foram coletados a partir do link a seguir: <a href="http://www.seagri.ba.gov.br/cotacao?produto=&praca=&tipo=&data_inicio=01%2F01%2F2021&data_final=02%2F01%2F2022">Secretaria da Agricultura, Pecuária, Irrigação, Pesca e Aquicultura</a>
 > foi usado a linguagem de programação Python e as libs bs4, requests e toolz.
 > 
