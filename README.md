@@ -22,7 +22,7 @@
 >> python main.py
 
 # Publicação
-> Não foi possível publicar na web o painel devido a falta da licensa Power Bi Pro, mas haverá versões futuras do painel com o dashboard feito com Javascript ou Python.
+> Não foi possível publicar na web devido a falta da licensa Power Bi Pro, mas haverá versões futuras do painel apenas com Python.
 
 # Amostra
 ![AnyConv com__2022-01-10_16-45-52](https://user-images.githubusercontent.com/48892066/148829846-97ef37d6-b437-4254-8c23-ea2845f677c3.gif)
