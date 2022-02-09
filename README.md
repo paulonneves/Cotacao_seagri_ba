@@ -26,3 +26,14 @@
 
 # Amostra
 ![AnyConv com__2022-01-10_16-45-52](https://user-images.githubusercontent.com/48892066/148829846-97ef37d6-b437-4254-8c23-ea2845f677c3.gif)
+
+### Skills
+🕷️ Web Scrapping
+
+🦉 Programação Funcional
+
+🎮 Visual interativo
+
+🐍 Python
+
+📊 Power Bi Desktop
