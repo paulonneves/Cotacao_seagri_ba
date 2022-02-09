@@ -10,6 +10,7 @@ Os dados foram coletados a partir da página <a href="http://www.seagri.ba.gov.b
 
 # Instalação
 As tabelas já estão na pasta **output** do repositório, mas caso queira executar o código Python novamente é necessário instalar as dependências com o PIP seguindo o comando:
+
 ```pip install -r requirements.txt```
 
 Em seguida execute os dois comandos a seguir:
