@@ -46,8 +46,12 @@ Arquivo DATA:
 > e aplica a função anterior obtendo todos itens da tabela em listas.
 
 ### Skills
-🤖 Aprendizado de Máquina
+🕷️ Web Scrapping
 
-🔬 Visão computacional
+🦉 Programação Funcional
+
+🎮 Visual interativo
 
 🐍 Python
+
+📊 Power Bi Desktop
