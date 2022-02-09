@@ -44,3 +44,10 @@ Arquivo DATA:
 > 
 > generate_data recebe um objeto bs4, captura a tabela presente na página, seleciona todas as linhas da tabela
 > e aplica a função anterior obtendo todos itens da tabela em listas.
+
+### Skills
+🤖 Aprendizado de Máquina
+
+🔬 Visão computacional
+
+🐍 Python
