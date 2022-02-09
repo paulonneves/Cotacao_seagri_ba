@@ -14,9 +14,9 @@
 
 > Em seguida execute os dois comandos a seguir:
 
->> python regions.py
+> ```python regions.py```
 
->> python main.py
+> ```python main.py```
 
 # Publicação
 > Não foi possível publicar na web devido a falta da licensa Power Bi Pro, mas haverá versões futuras do painel apenas com Python.
