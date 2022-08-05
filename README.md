@@ -20,7 +20,8 @@ Em seguida execute os dois comandos a seguir:
 ```python main.py```
 
 # Publicação
-Não foi possível publicar na web devido a falta da licensa Power Bi Pro, mas haverá versões futuras do painel apenas com Python.
+Disponível no link:
+https://app.powerbi.com/view?r=eyJrIjoiOTBjZmM0MDktNzJjNy00ZTRmLWIxN2QtMjlhZDEzZTNkMjE3IiwidCI6ImI5MzA5NDA0LWExNGQtNGVlZS1hNDEyLTEwNmZlMzA4OWUyMCJ9
 
 # Skills
 🕷️ Web Scrapping
